@@ -1,8 +1,0 @@
-action: py27, msg: getenv
-cwd: /home/farid/NetBeansProjects/LearPython/.tox
-cmd: /usr/bin/python3 -m virtualenv --python /usr/bin/python2.7 py27
-New python executable in /home/farid/NetBeansProjects/LearPython/.tox/py27/bin/python2.7
-Also creating executable in /home/farid/NetBeansProjects/LearPython/.tox/py27/bin/python
-Installing setuptools, pip, wheel...
-done.
-Running virtualenv with interpreter /usr/bin/python2.7
