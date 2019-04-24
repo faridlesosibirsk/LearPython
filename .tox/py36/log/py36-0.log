@@ -1,0 +1,9 @@
+action: py36, msg: getenv
+cwd: /home/farid/NetBeansProjects/LearPython/.tox
+cmd: /usr/bin/python3 -m virtualenv --python /usr/bin/python3 py36
+Already using interpreter /usr/bin/python3
+Using base prefix '/usr'
+New python executable in /home/farid/NetBeansProjects/LearPython/.tox/py36/bin/python3
+Also creating executable in /home/farid/NetBeansProjects/LearPython/.tox/py36/bin/python
+Installing setuptools, pip, wheel...
+done.
