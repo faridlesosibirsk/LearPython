@@ -3,4 +3,4 @@ python:
   - "3.6"
 install: true
 script:
-  - python3 tutorial/*Test.py
+  - python -m unittest discover -s tutorial -p *Test.py
