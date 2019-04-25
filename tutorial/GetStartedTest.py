@@ -1,6 +1,13 @@
 import unittest
 
-from sum import sum
+from GetStarted import GetStarted
+from GetStarted import sum
+
+
+class TestGetStarted(unittest.TestCase):
+    def test_helloworld(self):
+        result = GetStarted()
+        self.assertEqual(result, "Hello, World!")
 
 
 class TestSum(unittest.TestCase):

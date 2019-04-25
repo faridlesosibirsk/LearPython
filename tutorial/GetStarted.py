@@ -3,3 +3,6 @@ def sum(arg):
     for val in arg:
         total += val
     return total
+
+def GetStarted():
+    return "Hello, World!"
