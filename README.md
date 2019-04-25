@@ -1,5 +1,5 @@
 **to run unittest**
 
 ``
-$ python3 tutorial/*Test.py
+$ python -m unittest discover -s tutorial -p *Test.py
 ``
