@@ -1,5 +1,5 @@
-**to run**
+**to run unittest**
 
 ``
-$ python3 example.py
+$ python3 tutorial/*Test.py
 ``
