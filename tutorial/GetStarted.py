@@ -5,4 +5,4 @@ def sum(arg):
     return total
 
 def GetStarted():
-    return "Hello, World!"
+    return "Hello World!"
